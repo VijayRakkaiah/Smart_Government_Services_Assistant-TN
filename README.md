@@ -88,7 +88,7 @@ that:
 ## 1️⃣ Clone the Repository
 
     git clone https://github.com/VijayRakkaiah/Smart_Government_Services_Assistant-TN.git
-    cd smart-gov-agent
+    cd Smart_Government_Services_Assistant-TN
 
 ## 2️⃣ Install Dependencies
 
